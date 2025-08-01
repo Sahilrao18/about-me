@@ -15,10 +15,9 @@ Hey there! I'm **Sahil**, a passionate student of **Computer Science & IoT**, cu
 ---
 
 ## 🧠 Currently Learning
-
-- Advanced Python & Java OOP
-- Machine Learning basics
+- Java 
 - Ethical Hacking & Network Security
+- Advanced DSA
 
 ---
 
@@ -38,7 +37,7 @@ A secure, smart door locking system using RFID tags and microcontrollers. The sy
 
 - GitHub: [github.com/your-username](https://github.com/Sahilrao18)
 - LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/sahil-rao-b34381372)
-- Email: Sahilyada2518@gmail.com
+- Email: sahilyadav2518@gmail.com
 
 ---
 
